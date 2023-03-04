@@ -1,1 +1,3 @@
-# Predicting the sale price of homes in Ames, Iowa using machine lerning regression techniques. 
+# Predicting the Sale Price of homes in Ames, Iowa.
+
+## Machine Learning - Regression techinques 
