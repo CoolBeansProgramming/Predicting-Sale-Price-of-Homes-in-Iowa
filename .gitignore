@@ -3,7 +3,7 @@
 
 # Database info
 *.ini
-*.txt
+notes.txt
 config.py
 connect.py
 queries.sql
